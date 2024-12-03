@@ -16,6 +16,13 @@
       <description>&lt;p&gt;&lt;img alt=&#34;eyes and mushroom&#34; src=&#34;https://watson9109.github.io/images/eyes_and_mushroom.png&#34; title=&#34;eyes and mushroom&#34;&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;電気通信大学類コンピュータサイエンスプログラム&#34;&gt;電気通信大学Ⅰ類コンピュータサイエンスプログラム&lt;/h4&gt;&#xA;&lt;h4 id=&#34;所属サークル--imlteres&#34;&gt;所属サークル : IML，TeRes&lt;/h4&gt;&#xA;&lt;p&gt;本を読んだり，FPGAをいじったり，音楽を作ったりしている．&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#433e56;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-toml&#34; data-lang=&#34;toml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt; title = &lt;span style=&#34;color:#1bc5e0&#34;&gt;&amp;#34;About Me&amp;#34;&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
     <item>
+      <title>Works</title>
+      <link>https://watson9109.github.io/works/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://watson9109.github.io/works/</guid>
+      <description>&lt;h2 id=&#34;机丸ごと電子書籍化デバイス&#34;&gt;机丸ごと電子書籍化デバイス&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/ryusuke-m/e-desk&#34;&gt;Gitレポジトリ．いずれPublicにする．&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;プロジェクター・カメラ・ARマーカを使って，卓上の空間全てを電子書籍端末のように扱えるようにしたいという取り組み．サークルの先輩と取り組んだ．&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>投稿テストを兼ねて</title>
       <link>https://watson9109.github.io/posts/test2/</link>
       <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>

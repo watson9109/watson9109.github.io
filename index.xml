@@ -6,14 +6,21 @@
     <description>Recent content on 綿の瓶詰</description>
     <generator>Hugo</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://watson9109.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test2</title>
+      <title>About Me</title>
+      <link>https://watson9109.github.io/about/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://watson9109.github.io/about/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;eyes and mushroom&#34; src=&#34;https://watson9109.github.io/images/eyes_and_mushroom.png&#34; title=&#34;eyes and mushroom&#34;&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;電気通信大学類コンピュータサイエンスプログラム&#34;&gt;電気通信大学Ⅰ類コンピュータサイエンスプログラム&lt;/h4&gt;&#xA;&lt;h4 id=&#34;所属サークル--imlteres&#34;&gt;所属サークル : IML，TeRes&lt;/h4&gt;&#xA;&lt;p&gt;本を読んだり，FPGAをいじったり，音楽を作ったりしている．&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#433e56;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-toml&#34; data-lang=&#34;toml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt; title = &lt;span style=&#34;color:#1bc5e0&#34;&gt;&amp;#34;About Me&amp;#34;&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>投稿テストを兼ねて</title>
       <link>https://watson9109.github.io/posts/test2/</link>
       <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://watson9109.github.io/posts/test2/</guid>
-      <description>&lt;p&gt;さばかんがうまい．&#xA;あいうえ&lt;/p&gt;</description>
+      <description>&lt;p&gt;諸々のことをしていく中で，自分のプロフィールやブログができるサイトがほしいと思ったので，このサイトを作りました．&#xA;諸々のサイト構成とかは，Hugo+GithubPages+HugoThemesからの&lt;a href=&#34;https://themes.gohugo.io/themes/gokarna/&#34;&gt;Gokarna&lt;/a&gt;になっています．&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
